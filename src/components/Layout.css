@@ -3,5 +3,6 @@
   padding: 32px;
   border-radius: 6px;
   width: 50%;
+  /* margin: auto; -> 가운데 정렬 */
   margin: auto;
 }

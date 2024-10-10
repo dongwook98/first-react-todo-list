@@ -22,6 +22,7 @@
   background-color: transparent;
   padding: 0 12px;
   color: white;
+  /* flex-shrink: 0; -> 요소 크기가 줄어들지않게 함 즉, 컨텐츠 크기에 맞게 요소 크기 설정 */
   flex-shrink: 0;
   height: 30px;
 }
